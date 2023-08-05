@@ -25,7 +25,7 @@ My contribution includes Home page and About page elements + Navigation for our 
 
 I had so much fun designing and developing using Bootstrap that I've updated the original project and built out additional pages including the services, events, faq and contact pages. You can view the completed website on using the below link.
 
-[VIEW FULL WEBSITE](https://faria-code.github.io/pembrook-castle-concept-project/)
+<a href="https://faria-code.github.io/pembrook-castle-concept-project" target="_blank"> VIEW FULL WEBSITE </a>
 
 In the full version I've used:
 
