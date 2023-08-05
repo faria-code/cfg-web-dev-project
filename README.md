@@ -1,5 +1,5 @@
 # cfg-web-dev-project
-🌟 As part of the Code First Girls web development kickstarter, I worked in a team to build a concept website for a Castle in Scotland. Here you'll find my code for the Home and About page with the screenshots. Our website was chosen as the winning project for the course. Screenshots in the link provided.
+🌟 As part of the Code First Girls web development kickstarter, I worked in a team to build a concept website for a Castle in Scotland. Here you'll find my code for the Home and About page with the screenshots. Our website was chosen as the winning project for the course. Screenshots in the link provided above.
 
 During the 8-week course we were introduced to:
 
